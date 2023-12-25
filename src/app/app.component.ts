@@ -6,7 +6,7 @@ import {KeycloakProfile} from "keycloak-js";
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrl: './app.component.css'
 })
 export class AppComponent implements OnInit{
   title = 'angular-front-app';
